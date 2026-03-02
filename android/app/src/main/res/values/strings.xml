@@ -135,4 +135,10 @@
   <string name="snapshot_preview_unavailable">No screenshot yet</string>
   <string name="snapshot_preview_title">Slot %1$d - %2$s</string>
   <string name="snapshot_thumbnail_desc">Snapshot thumbnail</string>
+
+  <string name="library_custom_cover_set_option">Set Custom Cover</string>
+  <string name="library_custom_cover_remove_option">Remove Custom Cover</string>
+  <string name="library_custom_cover_set">Custom cover saved</string>
+  <string name="library_custom_cover_removed">Custom cover removed</string>
+  <string name="library_custom_cover_failed">Failed to save custom cover</string>
 </resources>
